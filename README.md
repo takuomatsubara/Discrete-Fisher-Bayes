@@ -16,7 +16,7 @@ Results for each application can be reproduced by running the files *.py.
 
 
 
-##### Dependencies
+#### Dependencies
 
 The "Ising/_dependency" folder contains routines for sampling from the Ising model provided in <https://github.com/jiaseny/kdsd>. See:
 
