@@ -97,12 +97,14 @@ It performs inference by the Discrete Fisher Divergence Bayes posterior without 
 The source code uses Python 3.10.9 and the following main packages:
 
 1. numpy (version 1.23.5)
-2. pytorch (version 1.12.1)
+2. torch (version 1.12.1)
 3. pyro (version 1.8.4)
 4. scipy (version 1.10.0)
 5. pandas (version 1.5.3)
-6. tqdm (version 4.64.1)
-7. sklearn (version 1.2.1)
+6. sklearn (version 1.2.1)
+7. matplotlib (version 3.7.0)
+8. seaborn (version 0.12.2)
+9. tqdm (version 4.64.1)
 
 
 
