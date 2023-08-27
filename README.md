@@ -12,7 +12,7 @@ The following four experiments were considered in the paper:
 1. Simulated data fitting by the Conway-Maxwell-Poisson model
 2. Sales data modelling by the Conway-Maxwell-Poisson model
 3. Simualted data fitting by the Ising model
-4. Gene expression data modelling by the Poisson graphical model and the Conway-Maxwell-Poisson graphical model
+4. Gene expression data modelling by the Poisson and the Conway-Maxwell-Poisson graphical model
 
 Results for each experiment can be reproduced by running the *.py files in each directory, respectively, CMP, SC, Ising, and Graphical. 
 
