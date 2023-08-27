@@ -56,7 +56,8 @@ The first main class is a high-level class "Posterior" in Source/model.py, which
     """
 
 
-The second main class is "FDBayes" contined in Source/model.py, which is an inherited class of Posterior to perform inference by the Discrete Fisher Divergence Bayes posterior without access to a normalising constant of a probability model on any discrete space. The documentation is also provided in the source code.
+The second main class is "FDBayes" contined in Source/model.py, which is an inherited class of Posterior. 
+It performs inference by the Discrete Fisher Divergence Bayes posterior without access to a normalising constant of a probability model on any discrete space. The documentation is also provided in the source code.
 
     class FDBayes(Posterior):
     """A class that corresponds to the FDBayes posterior.
