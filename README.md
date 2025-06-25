@@ -17,6 +17,7 @@ The following four experiments were considered in the paper:
 Results for each experiment can be reproduced by running the *.py files in each directory, respectively, CMP, SC, Ising, and Graphical. 
 
 
+
 ### Data
 
 The experiment 2 and 4 above used the following publicly avaialble datasets:
